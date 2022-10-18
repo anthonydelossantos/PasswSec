@@ -20,8 +20,7 @@ function Home(){
         <div className='passwordPrintBox'><h3>{password}</h3></div>
         <button className="generate-button" onClick={Generator}> Generate</button>
 
-        <p id='descrip'><strong>PasswSec</strong> is a great website where you be able to generate secures passwords.
-            <strong>PasswSec</strong> es una pagina web increible en la que eres capaz de generar contraseñas seguras</p>
+        <p id='descrip'><strong>PasswSec</strong> es una pagina web increible en la que eres capaz de generar contraseñas seguras</p>
     </div>
     
     )
